@@ -1,0 +1,9 @@
+{
+  "name": "coco-de-guide",
+  "version": "1.0.0",
+  "description": "Data engineering workflow plugin for the CoCo DE Guide project — includes skills for dbt model creation, subagents, and hooks.",
+  "author": "Flavia Oliveira",
+  "skills": ["skills"],
+  "agents": ["agents"],
+  "hooks": "hooks/hooks.json"
+}
